@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 body{
-    
+    background-color: black;
 }
 .flex{
     display: flex;
@@ -50,10 +50,10 @@ header{
 
 /* inizio main */
 main{
-    background-color: lightgrey;
+    background-color: black;
     height: calc(100vh - 150px);
     overflow: auto;
-    width: 90%;
+    margin: 0 50px;
 }
 .utenti{
     background-image: url('https://picsum.photos/300/200');
